@@ -1,0 +1,18 @@
+ Esquema del proyecto: Herramienta para la visualización de fractales 3D, y multicapa.
+ 
+  1. Introducción
+
+      - Explicar claramente que vas a hacer y por qué.
+
+ 2. Explorar que hay hecho.
+      - Analizar características, limitaciones, etc.
+
+ 3. Qué has hecho y cómo lo has hecho.
+      - Explicar métodos y herramientas utilizadas (médología agil o cualquier otra), lenguajes de programación, entornos de desarrollo, técnicas (redes neuronales).
+
+      - Visualización de diferentes tipos de fractales
+         - proponer dibujos iniciales que el usuario pueda modificar
+         - Geométricos, conjuntos de Julia y L-systems
+      
+ 4. Conclusiones
+ 
